@@ -13,4 +13,7 @@
     },
     "extra": {
     }
+    "include-path": [
+        "lib/"
+    ],
 }
