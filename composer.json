@@ -12,7 +12,7 @@
     "autoload": {
     },
     "extra": {
-    }
+    },
     "include-path": [
         "lib/"
     ],
