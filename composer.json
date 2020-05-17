@@ -1,0 +1,16 @@
+{
+    "name": "prodemos/apostropheBlogPlugin",
+    "type": "library",
+    "description": "apostropheBlogPlugin",
+    "keywords": ["apostropheBlogPlugin"],
+    "authors": [
+    ],
+    "require": {
+    },
+    "support": {
+    },
+    "autoload": {
+    },
+    "extra": {
+    }
+}
